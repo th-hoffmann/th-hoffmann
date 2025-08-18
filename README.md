@@ -6,7 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/th-hoffmann87)
 [![Email](https://img.shields.io/badge/Email-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago@hoffmann.tec.br)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
@@ -14,28 +14,30 @@
 
 ---
 
-## 🚀 Minha Jornada Tech
+## 🚀 My Tech Journey
 
 ```ascii
+     ```ascii
      🐧 Linux Journey    📚 Learning Path    🎯 Future Goals
         |                      |                   |
     2013 - Started           2024 - Student       2025 - CCNA
     with Ubuntu             Computer Networks     & Beyond!
 ```
+```
 
-Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de explorar! Do meu primeiro `apt-get update` até automatizar infraestruturas inteiras, cada linha de comando foi uma descoberta. 
+For over **10 years** I've been diving deep into the Linux world and haven't stopped exploring since! From my first `apt-get update` to automating entire infrastructures, every command line has been a discovery.
 
-**Atualmente:** Estudante de Redes de Computadores, transformando paixão em profissão 🎓
+**Currently:** Computer Networks student, turning passion into profession 🎓
 
-> 💭 *"Cada problema de rede é um puzzle esperando para ser resolvido"*
+> 💭 *"Every network problem is a puzzle waiting to be solved"*
 
 ---
 
-## ⚡ O que eu faço na prática
+## ⚡ What I do in practice
 
 <div align="center">
 
-**Quando não estou estudando, estou...**
+**When I'm not studying, I'm...**
 
 </div>
 
@@ -43,77 +45,77 @@ Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de ex
 <tr>
 <td width="33%" align="center">
 
-### 🛠️ **Construindo**
+### 🛠️ **Building**
 ```bash
-# Configurando servidores
+# Configuring servers
 sudo systemctl enable magic
 ```
-*Infraestrutura que funciona*
+*Infrastructure that works*
 
 </td>
 <td width="33%" align="center">
 
-### 🔐 **Protegendo** 
+### 🔐 **Securing** 
 ```bash
 # Hardening systems
 iptables -A SECURE_MODE
 ```
-*Redes à prova de invasão*
+*Invasion-proof networks*
 
 </td>
 <td width="33%" align="center">
 
-### 🚀 **Automatizando**
+### 🚀 **Automating**
 ```python
 # Making life easier
 while coffee_exists():
     automate_everything()
 ```
-*Para nunca mais fazer a mesma tarefa 2x*
+*Never do the same task twice*
 
 </td>
 </tr>
 </table>
 
-### 🎯 Meu Arsenal Atual
+### 🎯 My Current Arsenal
 
-> **Linux Distros:** Ubuntu (minha primeira paixão) • CentOS • RHEL  
+> **Linux Distros:** Ubuntu (my first love) • CentOS • RHEL  
 > **Networking:** TCP/IP, VLANs, Routing, Switching  
 > **Security:** pfSense, Firewalls, Network Hardening  
 > **Automation:** Python Scripts, Bash Wizardry  
-> **Monitoring:** Porque se não monitora, não existe!
+> **Monitoring:** If you don't monitor it, it doesn't exist!
 
 ---
 
-## 📚 Jornada de Aprendizado
+## 📚 Learning Journey
 
-### 🎓 **No Campus**
-**Redes de Computadores** - Onde teoria encontra prática (em andamento)
+### 🎓 **On Campus**
+**Computer Networks** - Where theory meets practice (ongoing)
 
-### 🏆 **Caçando Certificações**
-- 🌐 **CCST Networking** ← *Próxima conquista!*
-- 🌐 **CCNA** ← *O santo graal das redes*  
-- 🐧 **LPI Level 1** ← *Oficializando minha paixão pelo Linux*
+### 🏆 **Hunting Certifications**
+- 🌐 **CCST Networking** ← *Next achievement!*
+- 🌐 **CCNA** ← *The holy grail of networking*  
+- 🐧 **LPI Level 1** ← *Making my Linux passion official*
 
-### 🔥 **Especializações**
-**pfSense Firewall** - Porque segurança não é opcional!
+### 🔥 **Specializations**
+**pfSense Firewall** - Because security is not optional!
 
 ---
 
-## 💻 Tech Stack que me move
+## 💻 Tech Stack that drives me
 
 <div align="center">
 
-### **OS da alma** 🐧
+### **Soul OS** 🐧
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### **Languages que falo fluente** 🗣️
+### **Languages I speak fluently** 🗣️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Tools que uso no dia a dia** 🔧
+### **Daily tools** 🔧
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -122,7 +124,7 @@ while coffee_exists():
 
 ---
 
-## 🎯 Para onde estou caminhando
+## 🎯 Where I'm heading
 
 <div align="center">
 
@@ -131,29 +133,29 @@ while coffee_exists():
         │                        │                          │                       │
         └────────────────────────┼──────────────────────────┼───────────────────────┘
                                  │                          │
-                              🚀 FUTURO                  🚀 FUTURO
-                             TECH LEADER                ARCHITECT
+                              🚀 FUTURE                 🚀 FUTURE
+                             TECH LEADER               ARCHITECT
 ```
 
 </div>
 
-**Em 2025 quero estar:** Automatizando infraestruturas, protegendo redes e construindo sistemas que escalam.
+**By 2025 I want to be:** Automating infrastructures, securing networks and building systems that scale.
 
-**Sonho grande:** Ser aquele cara que resolve problemas complexos de rede enquanto toma café ☕
+**Big dream:** Being that guy who solves complex network problems while drinking coffee ☕
 
-### 🔥 Áreas que me fascinam:
-- 🛡️ **Cybersecurity** - Porque hackers nunca dormem
-- 🌐 **Network Engineering** - A internet precisa funcionar!
-- ⚙️ **DevOps & Automation** - Se é manual, pode ser automatizado
-- 📊 **Infrastructure Monitoring** - Dados que salvam vidas (e servidores)
+### 🔥 Areas that fascinate me:
+- 🛡️ **Cybersecurity** - Because hackers never sleep
+- 🌐 **Network Engineering** - The internet needs to work!
+- ⚙️ **DevOps & Automation** - If it's manual, it can be automated
+- 📊 **Infrastructure Monitoring** - Data that saves lives (and servers)
 
 ---
 
-## 🎮 Meu lado humano
+## 🎮 My human side
 
 <div align="center">
 
-**A vida é mais que códigos e configurações...**
+**Life is more than codes and configurations...**
 
 </div>
 
@@ -162,48 +164,48 @@ while coffee_exists():
 <td align="center" width="33%">
 
 ### 🧠 **Mind Games**
-♟️ **Xadrez**  
-*Cada jogada é como debuggar código*
+♟️ **Chess**  
+*Every move is like debugging code*
 
 🎯 **Problem Solving**  
-*Na vida e nos algoritmos*
+*In life and algorithms*
 
 </td>
 <td align="center" width="33%">
 
 ### 🚴‍♂️ **Adventure Mode**
-🚴‍♂️ **Ciclismo**  
-*Pedalar clareia as ideias*
+🚴‍♂️ **Cycling**  
+*Pedaling clears the mind*
 
-🌿 **Natureza**  
-*Meu ambiente de deploy favorito*
+🌿 **Nature**  
+*My favorite deployment environment*
 
 </td>
 <td align="center" width="33%">
 
 ### 🌌 **Sci-Fi Lover**
-📖 **Ficção Científica**  
-*Isaac Asimov é meu hero*
+📖 **Science Fiction**  
+*Isaac Asimov is my hero*
 
-🌌 **Astronomia**  
-*O universo é o maior cluster*
+🌌 **Astronomy**  
+*The universe is the biggest cluster*
 
 🎬 **Cinema**  
-*Blade Runner, Matrix... clássicos!*
+*Blade Runner, Matrix... classics!*
 
 </td>
 </tr>
 </table>
 
-> 🎵 *"Programar ouvindo Pink Floyd, pedalar pensando em algoritmos, jogar xadrez como se fosse arquitetar uma rede"*
+> 🎵 *"Programming listening to Pink Floyd, cycling thinking about algorithms, playing chess as if architecting a network"*
 
 ---
 
-## 📊 Alguns Números (Que Importam)
+## 📊 Some Numbers (That Matter)
 
 <div align="center">
 
-**Stats que contam minha história no GitHub**
+**GitHub stats that tell my story**
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=th-hoffmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-hoffmann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -226,7 +228,7 @@ while coffee_exists():
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=th-hoffmann&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-*Coletando conquistas como quem coleta experiência!* 🎮
+*Collecting achievements like collecting experience!* 🎮
 
 </div>
 
@@ -234,24 +236,24 @@ while coffee_exists():
 
 <div align="center">
 
-### 🌟 *"De `sudo apt-get update` ao infinito e além!"*
+### 🌟 *"From `sudo apt-get update` to infinity and beyond!"*
 
-**Bora trocar uma ideia sobre tech, redes ou aquele bug que você não consegue resolver?** 🤝
+**Want to chat about tech, networks or that bug you can't solve?** 🤝
 
 ```bash
-# Sempre disponível para:
+# Always available for:
 while (true) {
-    console.log("📚 Aprender algo novo");
-    console.log("🔧 Resolver problemas");
-    console.log("🚀 Colaborar em projetos");
-    console.log("☕ Tomar um café e falar de tech");
+    console.log("📚 Learning something new");
+    console.log("🔧 Solving problems");
+    console.log("🚀 Collaborating on projects");
+    console.log("☕ Having coffee and talking tech");
 }
 ```
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=th-hoffmann&color=blueviolet&style=flat-square&label=Visitantes+curiosos)
+![Profile Views](https://komarev.com/ghpvc/?username=th-hoffmann&color=blueviolet&style=flat-square&label=Curious+visitors)
 
-**Obrigado pela visita! Volta sempre! 👋**
+**Thanks for visiting! Come back anytime! 👋**
 
 </div>
