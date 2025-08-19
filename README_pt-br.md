@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 E aí! Eu sou o Thiago Hoffmann
+# 🌟 E aí! Eu sou o Thiago
 
 ### 🐧 *Bruxo do Linux desde 2013* | 🌐 *Arquiteto de Redes em Formação* | ⚡ *Entusiasta de Automação*
 
@@ -16,12 +16,16 @@
 
 ## 🚀 Minha Jornada Tech
 
-```ascii
-     🐧 Jornada Linux    📚 Caminho de Aprendizado    🎯 Metas Futuras
-        |                        |                        |
-    2013 - Comecei            2024 - Estudante          2025 - CCNA
-    com Ubuntu               Redes de Computadores      e além!
+<div align="center">
+
 ```
+   🐧 Jornada Linux       📚 Caminho de Aprendizado    🎯 Metas Futuras
+         |                         |                         |
+    2013 - Comecei            2024 - Estudante           2025 - CCNA
+    com Ubuntu               Redes de Computadores       e além!
+```
+
+</div>
 
 Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de explorar! Do meu primeiro `apt-get update` até automatizar infraestruturas inteiras, cada linha de comando foi uma descoberta.
 
@@ -44,31 +48,31 @@ Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de ex
 <td width="33%" align="center">
 
 ### 🛠️ **Construindo**
-```bash
-# Configurando servidores
+<pre>
+⚙️ Configurando servidores
 sudo systemctl enable magic
-```
+</pre>
 *Infraestrutura que funciona*
 
 </td>
 <td width="33%" align="center">
 
 ### 🔐 **Protegendo** 
-```bash
-# Endurecendo sistemas
+<pre>
+🛡️ Endurecendo sistemas
 iptables -A SECURE_MODE
-```
+</pre>
 *Redes à prova de invasão*
 
 </td>
 <td width="33%" align="center">
 
 ### 🚀 **Automatizando**
-```python
-# Facilitando a vida
+<pre>
+🤖 Facilitando a vida
 while coffee_exists():
     automate_everything()
-```
+</pre>
 *Para nunca fazer a mesma tarefa duas vezes*
 
 </td>
@@ -126,14 +130,11 @@ while coffee_exists():
 
 <div align="center">
 
-```
-   🛡️ CyberSecurity     🌐 Network Engineering     ⚙️ DevOps & Automation     📊 Observability
-        │                        │                          │                       │
-        └────────────────────────┼──────────────────────────┼───────────────────────┘
-                                 │                          │
-                              🚀 FUTURO                  🚀 FUTURO
-                             TECH LEADER                ARCHITECT
-```
+<pre>
+🛡️ CyberSecurity  →  🌐 Network Engineering  →  ⚙️ DevOps & Automation  →  📊 Observability
+                                    ↓
+                        🚀 FUTURO TECH LEADER & ARCHITECT 🚀
+</pre>
 
 </div>
 
@@ -195,7 +196,7 @@ while coffee_exists():
 </tr>
 </table>
 
-> 🎵 *"Programar ouvindo Pink Floyd, pedalar pensando em algoritmos, jogar xadrez como se fosse arquitetar uma rede"*
+> 🎵 *"Programar ouvindo Rock ou Jazz, pedalar pensando em algoritmos, jogar xadrez como se fosse arquitetar uma rede"*
 
 ---
 
@@ -238,15 +239,13 @@ while coffee_exists():
 
 **Bora trocar uma ideia sobre tech, redes ou aquele bug que você não consegue resolver?** 🤝
 
-```bash
-# Sempre disponível para:
-while (true) {
-    console.log("📚 Aprender algo novo");
-    console.log("🔧 Resolver problemas");
-    console.log("🚀 Colaborar em projetos");
-    console.log("☕ Tomar um café e falar de tech");
-}
-```
+<pre>
+💻 Sempre disponível para:
+   📚 Aprender algo novo
+   🔧 Resolver problemas
+   🚀 Colaborar em projetos
+   ☕ Tomar um café e falar de tech
+</pre>
 
 <br>
 
