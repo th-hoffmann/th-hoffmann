@@ -10,6 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-Let's_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago@hoffmann.tec.br)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](#)
 
+**🇺🇸 English** • **[🇧🇷 Leia em Português](README.md)**
+
 </div>
 
 ---
