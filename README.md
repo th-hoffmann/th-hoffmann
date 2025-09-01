@@ -2,9 +2,8 @@
 
 # 🌟 E aí! Eu sou o Thiago
 
-### 🐧 *Bruxo do Linux desde 2013* | 🌐 *Arquiteto de Redes em Formação* | ⚡ *Entusiasta de Automação*
+### 🐧 *Bruxo do Linux* | 🌐 *Arquiteto de Redes em Formação* | ⚡ *Entusiasta de Automação*
 
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/th-hoffmann87)
 [![Email](https://img.shields.io/badge/Email-Vamos_Conversar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago@hoffmann.tec.br)
@@ -12,30 +11,18 @@
 
 **🇧🇷 Português** • **[🇺🇸 Read in English](README_en.md)**
 
-</div>
-
----
-
-## 🚀 Minha Jornada Tech
-
-<div align="center">
-
-```
-   🐧 Jornada Linux       📚 Caminho de Aprendizado    🎯 Metas Futuras
-         |                         |                         |
-    2013 - Comecei            2024 - Estudante           2025 - CCNA
-    com Ubuntu               Redes de Computadores       e além!
-```
-
-</div>
+&nbsp;
 
 Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de explorar! Do meu primeiro `apt-get update` até automatizar infraestruturas inteiras, cada linha de comando foi uma descoberta.
 
-**Atualmente:** Estudante de Redes de Computadores, transformando paixão em profissão 🎓
+**Atualmente:** Estudante de Redes de Computadores, transformando minha paixão em profissão 🎓
+
+&nbsp;
 
 > 💭 *"Cada problema de rede é um quebra-cabeça esperando para ser resolvido"*
 
 ---
+&nbsp;
 
 ## ⚡ O que eu faço na prática
 
@@ -81,6 +68,8 @@ while coffee_exists():
 </tr>
 </table>
 
+&nbsp;
+
 ### 🎯 Meu Arsenal Atual
 
 > **Distros Linux:** Ubuntu (minha primeira paixão) • CentOS • RHEL  
@@ -91,10 +80,16 @@ while coffee_exists():
 
 ---
 
+&nbsp;
+
 ## 📚 Jornada de Aprendizado
+
+&nbsp;
 
 ### 🎓 **No Campus**
 **Redes de Computadores** - Onde teoria encontra prática (em andamento)
+
+&nbsp;
 
 ### 🏆 **Caçando Certificações**
 - 🌐 **CCST Networking** ← *Próxima conquista!*
@@ -105,6 +100,7 @@ while coffee_exists():
 **pfSense Firewall** - Porque segurança não é opcional!
 
 ---
+&nbsp;
 
 ## 💻 Tech Stack que me move
 
