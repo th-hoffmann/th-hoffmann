@@ -13,9 +13,9 @@
 
 &nbsp;
 
-Há mais de **10 anos** mergulhei no mundo Linux e desde então não parei de explorar! Do meu primeiro `apt-get update` até automatizar infraestruturas inteiras, cada linha de comando foi uma descoberta.
+Estudante de Redes de Computadores e entusiasta de Linux e Software Livre em transição de carreira para a área de TI.
 
-**Atualmente:** Estudante de Redes de Computadores, transformando minha paixão em profissão 🎓
+Foco em Administração de Sistemas, Automação e Segurança da Informação 
 
 &nbsp;
 
