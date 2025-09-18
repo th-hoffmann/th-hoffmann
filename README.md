@@ -1,152 +1,34 @@
 <div align="center">
-
-# 🌟 E aí! Eu sou o Thiago
-
-### 🐧 *Bruxo do Linux* | 🌐 *Arquiteto de Redes em Formação* | ⚡ *Entusiasta de Automação*
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/th-hoffmann87)
-[![Email](https://img.shields.io/badge/Email-Vamos_Conversar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago@hoffmann.tec.br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Em_Breve-FF5722?style=for-the-badge&logo=rocket&logoColor=white)](#)
-
-**🇧🇷 Português** • **[🇺🇸 Read in English](README_en.md)**
-
-&nbsp;
-
-Estudante de Redes de Computadores e entusiasta de Linux e Software Livre em transição de carreira para a área de TI.
-
-Foco em Administração de Sistemas, Automação e Segurança da Informação 
-
-&nbsp;
-
-> 💭 *"Cada problema de rede é um quebra-cabeça esperando para ser resolvido"*
-
----
-&nbsp;
-
-## ⚡ O que eu faço na prática
-
-<div align="center">
-
-**Quando não estou estudando, estou...**
-
+  <h1 align="center">🌟 E aí! Eu sou o Thiago</h1>
+  <h3 align="center">🐧 <i>Domador de Pinguins</i> | 🔒 <i>Caçador de Vulnerabilidades</i> | 🎯 <i>Automatizador Serial</i></h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/th-hoffmann87"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:thiago@hoffmann.tec.br"><img src="https://img.shields.io/badge/Email-Vamos_Conversar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Em_Breve-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"></a> 
+    <br> <b>🇧🇷 Português</b> • <a href="README_en.md">🇺🇸 Read in English</a>
+  </p>
 </div>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🛠️ **Construindo**
-<pre>
-⚙️ Configurando servidores
-sudo systemctl enable magic
-</pre>
-*Infraestrutura que funciona*
-
-</td>
-<td width="33%" align="center">
-
-### 🔐 **Protegendo** 
-<pre>
-🛡️ Endurecendo sistemas
-iptables -A SECURE_MODE
-</pre>
-*Redes à prova de invasão*
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 **Automatizando**
-<pre>
-🤖 Facilitando a vida
-while coffee_exists():
-    automate_everything()
-</pre>
-*Para nunca fazer a mesma tarefa duas vezes*
-
-</td>
-</tr>
-</table>
-
 &nbsp;
-
-### 🎯 Meu Arsenal Atual
-
-> **Distros Linux:** Ubuntu (minha primeira paixão) • CentOS • RHEL  
-> **Redes:** TCP/IP, VLANs, Roteamento, Switching  
-> **Segurança:** pfSense, Firewalls, Network Hardening  
-> **Automação:** Scripts Python, Magia do Bash  
-> **Monitoramento:** Se não monitora, não existe!
-
----
-
-&nbsp;
-
-## 📚 Jornada de Aprendizado
-
-&nbsp;
-
-### 🎓 **No Campus**
-**Redes de Computadores** - Onde teoria encontra prática (em andamento)
-
-&nbsp;
-
-### 🏆 **Caçando Certificações**
-- 🌐 **CCST Networking** ← *Próxima conquista!*
-- 🌐 **CCNA** ← *O santo graal das redes*  
-- 🐧 **LPI Level 1** ← *Oficializando minha paixão pelo Linux*
-
-### 🔥 **Especializações**
-**pfSense Firewall** - Porque segurança não é opcional!
-
----
-&nbsp;
-
-## 💻 Tech Stack que me move
 
 <div align="center">
+Sou estudante de Redes de Computadores e entusiasta do universo Linux, em transição de carreira para a área de TI. Meu objetivo é aplicar essa paixão para <strong>domar</strong> sistemas complexos, <strong>automatizar</strong> processos repetitivos e <strong>fortalecer</strong> a segurança digital.
 
-### **SO da alma** 🐧
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+&nbsp;
 
-### **Linguagens que falo fluentemente** 🗣️
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Ferramentas do dia a dia** 🔧
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
+<div style="display: inline_block"><br>
+  <img align="left" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="left" alt="Thiago-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="left" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Thiago-pfSense-original" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pfsense/pfsense-original.svg">
 </div>
 
----
-
-## 🎯 Para onde estou caminhando
-
-<div align="center">
-
-<pre>
-🛡️ CyberSecurity  →  🌐 Network Engineering  →  ⚙️ DevOps & Automation  →  📊 Observability
-                                    ↓
-                        🚀 FUTURO TECH LEADER & ARCHITECT 🚀
-</pre>
-
-</div>
-
-**Em 2025 quero estar:** Automatizando infraestruturas, protegendo redes e construindo sistemas que escalam.
-
-**Sonho grande:** Ser aquele cara que resolve problemas complexos de rede enquanto toma café ☕
-
-### 🔥 Áreas que me fascinam:
-- 🛡️ **Cybersecurity** - Porque hackers nunca dormem
-- 🌐 **Network Engineering** - A internet precisa funcionar!
-- ⚙️ **DevOps & Automation** - Se é manual, pode ser automatizado
-- 📊 **Infrastructure Monitoring** - Dados que salvam vidas (e servidores)
+&nbsp;
 
 ---
+&nbsp;
 
 ## 🎮 Meu lado humano
 
@@ -187,18 +69,14 @@ while coffee_exists():
 🌌 **Astronomia**  
 *O universo é o maior cluster*
 
-🎬 **Cinema**  
-*Blade Runner, Matrix... clássicos!*
 
 </td>
 </tr>
 </table>
 
-> 🎵 *"Programar ouvindo Rock ou Jazz, pedalar pensando em algoritmos, jogar xadrez como se fosse arquitetar uma rede"*
-
 ---
 
-## 📊 Alguns Números (Que Importam)
+## 📊 Alguns Números:
 
 <div align="center">
 
@@ -225,17 +103,11 @@ while coffee_exists():
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=th-hoffmann&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-*Coletando conquistas como quem coleta experiência!* 🎮
-
 </div>
 
 ---
 
 <div align="center">
-
-### 🌟 *"De `sudo apt-get update` ao infinito e além!"*
-
-**Bora trocar uma ideia sobre tech, redes ou aquele bug que você não consegue resolver?** 🤝
 
 <pre>
 💻 Sempre disponível para:
@@ -247,8 +119,8 @@ while coffee_exists():
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=th-hoffmann&color=blueviolet&style=flat-square&label=Visitantes+curiosos)
+![Profile Views](https://komarev.com/ghpvc/?username=th-hoffmann&color=blueviolet&style=flat-square&label=Visitantes)
 
-**Obrigado pela visita! Volta sempre! 👋**
+**Obrigado pela visita! 👋**
 
 </div>
